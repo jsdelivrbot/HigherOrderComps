@@ -1,7 +1,7 @@
 {
-  "name": "higher order comps",
+  "name": "higher-order-comps",
   "version": "1.0.0",
-  "description": "higher order components work with react/redux",
+  "description": "react/redux practice with higher order comps",
   "main": "index.js",
   "repository": "git@github.com:cjwoodru2/HigherOrderComps.git",
   "scripts": {
